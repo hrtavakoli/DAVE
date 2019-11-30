@@ -1,6 +1,7 @@
 # DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction
 
 Learn more about the method at https://arxiv.org/abs/1905.10693
+Project webpage: https://hrtavakoli.github.io/DAVE/
 
 ## Abstract
 
@@ -12,5 +13,12 @@ This paper presents a conceptually simple and effective Deep Audio-Visual Eembed
 
 To find more about the data used in this paper, check the following:
 https://hrtavakoli.github.io/AVE/
+
+## Pretrained model
+
+An example pre-trained model is available at https://drive.google.com/open?id=1hVf2PKp9UQNYMeG-tyT__0qJDHkj79sV
+This model is trained on the above mentioned data for 10 epochs and the best model is selected on validation set.
+
+ 
 
 
